@@ -1,9 +1,4 @@
-Student (1) Leena Ashraf Hajbi
-Id: 172245
+
 live Figma File :
 https://www.figma.com/design/j3kJ7UxpiqLVdzD69wd2tG/Untitled?node-id=0-1&t=OJFPvs0JqPo7gj5W-1
 
-Student (2) Morad Abdelsalam Talafha
-Id: 171084
-live Figma File :
-https://www.figma.com/design/qKi5x1eHVBhl6k2KZylRZL/Wireframing--Copy-?node-id=1125177-92&t=Awet4JbIspp4xXcO-1
